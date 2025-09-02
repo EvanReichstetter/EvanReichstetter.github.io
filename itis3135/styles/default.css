@@ -1,0 +1,35 @@
+a {
+    color: chartreuse;
+}
+
+h1, h2 {
+    font-family: impact;
+}
+
+body {
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+}
+
+figure {
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+ul {
+    list-style-position: inside;
+    width: 1500px;                
+    margin: 40px auto;   
+    text-align: left;
+}
